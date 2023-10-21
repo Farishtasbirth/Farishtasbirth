@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Happy Birthday, Farishta!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #3498db;
+            color: #fff;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        .container {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Happy Birthday, Farishta!</h1>
+    </header>
+    <div class="container">
+        <p>Dear Farishta,</p>
+        <p>On this special day, we want to wish you a very happy and joyous birthday!</p>
+        <p>May your day be filled with love, laughter, and unforgettable moments.</p>
+        <p>Thank you for being an amazing friend and a wonderful person. We are grateful to have you in our lives.</p>
+        <p>Wishing you all the best today and always!</p>
+        <p>With love and warmest wishes,</p>
+        <p>Your Friends</p>
+    </div>
+</body>
+</html>
